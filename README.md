@@ -1,6 +1,3 @@
-Here’s a **short version of your README** with your name and GitHub handle included:
-
----
 
 # 🌍 Universal Chat Room
 
